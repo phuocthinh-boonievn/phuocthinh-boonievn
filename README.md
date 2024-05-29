@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,azure,mui,html,css,vscode,visualstudio,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=unity,azure,html,css,vscode,visualstudio,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=dotnet,cs,java,typescript,firebase" /><br>
 </div>
 
@@ -43,8 +43,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
+![](https://github-readme-stats.vercel.app/api?username=phuocthinh-boonievn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=phuocthinh-boonievn&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocthinh-boonievn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 <br/><br/>
