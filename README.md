@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=phuocthinh-boonievn.phuocthinh-boonievn" />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phuocthinh-boonievn&label=Profile%20views&color=0e75b6&style=flat" alt="phuocthinh-boonievn" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phuoc+Thịnh!;+Welcome+to+my+github" />
 </h1>
@@ -33,8 +32,16 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,azure,html,css,vscode,visualstudio,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,typescript,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,unity" />
+    <br>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,git" />
+    <br>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,html,css,js,react" />
+    <br>
 </div>
 
 <br/>
@@ -43,21 +50,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuocthinh-boonievn&show_icons=true&locale=en&layout=compact" alt="phuocthinh-boonievn" /></p>
-
+    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuocthinh-boonievn&show_icons=true&locale=en&layout=compact" alt="phuocthinh-boonievn" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=phuocthinh-boonievn&show_icons=true&locale=en" alt="phuocthinh-boonievn" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuocthinh-boonievn&" alt="phuocthinh-boonievn" /></p>
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
