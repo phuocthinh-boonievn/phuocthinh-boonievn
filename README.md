@@ -45,7 +45,7 @@
 <div align=center>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuocthinh-boonievn&show_icons=true&locale=en&layout=compact" alt="phuocthinh-boonievn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuocthinh-boonievn&show_icons=true&locale=en" alt="phuocthinh-boonievn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=phuocthinh-boonievn&show_icons=true&locale=en" alt="phuocthinh-boonievn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuocthinh-boonievn&" alt="phuocthinh-boonievn" /></p>
 </div>
