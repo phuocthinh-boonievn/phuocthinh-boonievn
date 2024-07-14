@@ -40,7 +40,7 @@
     <br>
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,unreal,html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     <br>
 </div>
 
