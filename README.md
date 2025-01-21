@@ -29,11 +29,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,unity" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,ts,unity" />
     <br>
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git" />
     <br>
 </div>
 <div align="center">
