@@ -33,7 +33,7 @@
     <br>
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,git" />
     <br>
 </div>
 <div align="center">
