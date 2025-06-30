@@ -3,15 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phuoc+Thịnh!;+Welcome+to+my+github" />
 </h1>
 
-<h3 align="center">A aspiring back-end game and software developer from Viet Nam</h3>
+<h3 align="center">A aspiring software developer </h3>
 
 <br/>
 
 <div align="center">
+    
+ 🌱 I'm  a **FPT University graduate and currently job searching** 
  
- 🔭 I’m currently working on **my final captsone project**
- 
- 🌱 I’m currently studying at **FPT University**
+ 🔭 I’m currently working on **some personal projects (A.I assistant with custom ElevenLabs voice, a mini Rogue-like mobile game)**
 
  </div>
  
