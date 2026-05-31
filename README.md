@@ -11,7 +11,7 @@
     
  🌱 I'm  a **FPT University graduate and currently job searching** 
  
- 🔭 I’m currently working on **some personal projects (A.I assistant with custom ElevenLabs voice, a mini Rogue-like mobile game)**
+ 🔭 My [portfolio](https://phuocthinh-boonievn.github.io/cyberpunk-portfolio/)
 
  </div>
  
