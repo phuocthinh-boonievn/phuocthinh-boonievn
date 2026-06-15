@@ -40,5 +40,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     <br>
 </div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma" />
+    <br>
+</div>
 
 <br/>
