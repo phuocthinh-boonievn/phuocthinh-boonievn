@@ -25,24 +25,20 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ My Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,java,ts,unity" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+    <br>
+</div>
+<div align="center">
+    <a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=expo,reactnative,android,ios,unity,appstore,playstore" /></a>
     <br>
 </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,git" />
     <br>
 </div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-    <br>
-</div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,figma" />
-    <br>
-</div>
-
 <br/>
+<h2 align="center">⚒️ Frameworks - Tools ⚒️</h2>
+
